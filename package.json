@@ -12,7 +12,7 @@
   "private": true,
   "peerDependencies": {
     "bootstrap": "^4.3.1",
-    "highlight.js": "^9.18.1"
+    "highlight.js": "^10.4.1"
   },
   "dependencies": {
     "@angular/animations": "~10.0.3",
@@ -28,7 +28,7 @@
     "@ofzza/entt-rxjs": "^3.2.1",
     "@themesberg/volt-bootstrap-5-dashboard": "^1.0.1",
     "bootstrap": "^5.0.0-alpha1",
-    "highlight.js": "^9.18.1",
+    "highlight.js": "^10.4.1",
     "rxjs": "~6.6.0",
     "startbootstrap-sb-admin": "^5.1.1",
     "tslib": "^2.0.0",
